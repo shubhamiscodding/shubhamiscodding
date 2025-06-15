@@ -1,4 +1,4 @@
-# shubhamiscoding
+# Shubham Modi
 
 <h1 align="center">Hi 👋, I'm Shubham Modi</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
